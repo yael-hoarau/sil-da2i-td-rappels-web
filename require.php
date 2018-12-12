@@ -1,0 +1,12 @@
+<?php
+require('get_block.php');
+require('Model/DB.php');
+require('config.php');
+require('Model/Person.php');
+require('Model/Actor.php');
+require('Model/Director.php');
+require('Model/Movie.php');
+require('Controller/HomeController.php');
+require('Controller/MovieController.php');
+require('Controller/ActorController.php');
+require('Controller/DirectorController.php');
